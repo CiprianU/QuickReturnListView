@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="sticky_height">120dp</dimen>
+    <dimen name="top_height">150dp</dimen>
+</resources>
